@@ -1,0 +1,4 @@
+baseURL = 'muhammadzahid.me'
+languageCode = 'en-us'
+title = 'My personal Website'
+theme = ["hugo-universal-theme"]
